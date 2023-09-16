@@ -733,7 +733,7 @@ header {
   justify-content: space-between;
   align-items: center;
   display: flex;
-  width: 1000%;
+  width: 100%;
 }
 header nav{
   display: inline-flex;
