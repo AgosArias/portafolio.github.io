@@ -633,11 +633,6 @@ margin-right: 20px;
   text-align: justify;
 
 }
-.presentation{
-  width: 100%;
-  height: 100%;
-  
-}
 
 .presentation img{
   width: 170px;
@@ -663,7 +658,6 @@ margin-right: 20px;
   overflow: hidden;
   position: relative;
   height: 200px;
-  margin-left: 10%;    
   align-items: center;
 
 
